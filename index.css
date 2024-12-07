@@ -2,3 +2,13 @@
     text-decoration: line-through;
     color:gray;
 }
+#container{
+    text-align: center;
+}
+button{
+    cursor: pointer;
+    background-color:antiquewhite;
+    font-family: Roboto;
+    font-size: 15px;
+    border-radius: 5px;
+}
