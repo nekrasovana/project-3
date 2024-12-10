@@ -12,3 +12,6 @@ button{
     font-size: 15px;
     border-radius: 5px;
 }
+#list{
+    list-style-type: none;
+}
